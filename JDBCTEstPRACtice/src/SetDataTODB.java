@@ -29,5 +29,6 @@ public class SetDataTODB {
            st.close();
            con.close();
 	}
-
+public void m2(){
+	System.out.println("added new methods");
 }
